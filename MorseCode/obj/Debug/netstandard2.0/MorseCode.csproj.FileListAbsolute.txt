@@ -1,0 +1,14 @@
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.csprojAssemblyReference.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.AssemblyInfoInputs.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.AssemblyInfo.cs
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\bin\Debug\netstandard2.0\MorseCode.deps.json
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\bin\Debug\netstandard2.0\MorseCode.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\bin\Debug\netstandard2.0\ref\MorseCode.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\bin\Debug\netstandard2.0\MorseCode.pdb
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\ref\MorseCode.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.pdb
